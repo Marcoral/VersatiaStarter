@@ -1,0 +1,5 @@
+com.github.marcoral.versatia.engine.api.service.VersatiaServiceProcessorProvider
+com.github.marcoral.versatia.engine.api.service.InternalVersatiaServiceProcessorProvider
+com.github.marcoral.versatia.engine.api.service.RegisterVersatiaServiceProcessorProvider
+com.github.marcoral.versatia.engine.api.resource.GenerateEventOnChangeProcessorProvider
+com.github.marcoral.versatia.engine.api.descriptor.GeneratePluginEnhancementsDescriptorProcessorProvider
